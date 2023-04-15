@@ -28,4 +28,7 @@ The project is set up to use `postcss-cli` to process your CSS files. You can ad
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.!
+
+![app](https://user-images.githubusercontent.com/107209209/232200827-6ee66eea-7e31-4177-96b1-16b0601b57a6.png)
+
